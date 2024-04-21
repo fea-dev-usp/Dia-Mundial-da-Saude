@@ -1,5 +1,24 @@
 ![Abril: mês da saúde](assets/abril-mes-mundial-saude.png)
 
+<div align="center">
+ 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  **Participantes:** <a href="https://github.com/Adrielle123abreu">[![GitHub Badge](https://img.shields.io/badge/Adrielle-Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adrielle123abreu)</a> 
+  <a href="https://github.com/andredatzabadi">[![GitHub Badge](https://img.shields.io/badge/Andre-Datz-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andredatzabadi)</a> 
+  <a href="https://github.com/mi-ramos">[![GitHub Badge](https://img.shields.io/badge/Milena-Ramos-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mi-ramos)</a>
+  <a href="https://github.com/mabibis">[![GitHub Badge](https://img.shields.io/badge/Amabile-Nunes-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mabibis)</a>
+
+</div>
+
 ---
 
 # Abril: o mês da Saúde
@@ -64,7 +83,7 @@ Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
 
 ## Resultados
 
-Os resultados podem ser conferidos no storytelling contido em cada arquivo (`ipynb`) das análise dos dados.
+Os resultados podem ser conferidos no storytelling contido em cada arquivo (`ipynb`) das análise dos dados e [na publicação realizada no perfil do FEA.dev no Instagram](https://www.instagram.com/p/C6AAb3myihr).
 
 ## Créditos
 
