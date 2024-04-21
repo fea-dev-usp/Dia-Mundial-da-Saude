@@ -12,10 +12,10 @@
 
 <div align="center">
 
-  **Participantes:** <a href="https://github.com/Adrielle123abreu">[![GitHub Badge](https://img.shields.io/badge/Adrielle-Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adrielle123abreu)</a> 
-  <a href="https://github.com/andredatzabadi">[![GitHub Badge](https://img.shields.io/badge/Andre-Datz-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andredatzabadi)</a> 
-  <a href="https://github.com/mi-ramos">[![GitHub Badge](https://img.shields.io/badge/Milena-Ramos-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mi-ramos)</a>
-  <a href="https://github.com/mabibis">[![GitHub Badge](https://img.shields.io/badge/Amabile-Nunes-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mabibis)</a>
+  **Participantes:** <a href="https://github.com/Adrielle123abreu">[![GitHub Badge](https://img.shields.io/badge/Adrielle_Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adrielle123abreu)</a> 
+  <a href="https://github.com/andredatzabadi">[![GitHub Badge](https://img.shields.io/badge/Andre_Datz-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andredatzabadi)</a> 
+  <a href="https://github.com/mi-ramos">[![GitHub Badge](https://img.shields.io/badge/Milena_Ramos-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mi-ramos)</a>
+  <a href="https://github.com/mabibis">[![GitHub Badge](https://img.shields.io/badge/Amabile_Nunes-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mabibis)</a>
 
 </div>
 
